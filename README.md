@@ -38,7 +38,7 @@ Pick only one theme
 #include "catppuccin.h"
 ```
 
-## Refernces
+## References
 
 https://catppuccin.com/
 
