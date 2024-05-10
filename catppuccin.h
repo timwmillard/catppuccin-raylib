@@ -15,11 +15,11 @@ Usage:
 #define CATPPUCCIN_FRAPPE
 #include "catppuccin.h"
 
-// Cappuccin Macchiato Theme
+// Cappuccin Macchiato
 #define CATPPUCCIN_MACCHIATO
 #include "catppuccin.h"
 
-// Cappuccin Mocha Theme
+// Cappuccin Mocha
 #define CATPPUCCIN_MOCHA
 #include "catppuccin.h"
 
